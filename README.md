@@ -1,3 +1,7 @@
+This project was made using a YouTube tutorial by JavaScript Mastery.
+
+Github page:
+https://github.com/adrianhajdin/project_e_commerce
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
