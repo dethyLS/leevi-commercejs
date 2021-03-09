@@ -1,3 +1,5 @@
+React.js store. Deployed with Netlify: https://leevi-verkkokauppa.netlify.app/
+
 This project was made using a YouTube tutorial by JavaScript Mastery.
 
 Github page:
